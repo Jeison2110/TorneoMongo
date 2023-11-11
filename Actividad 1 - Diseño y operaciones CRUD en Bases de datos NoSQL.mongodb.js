@@ -434,6 +434,7 @@ db.Resultados.insertMany(
     [
         {
             Fase:"All in ALL",
+            Fecha:"2023-10-10T20:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Los Perros",
@@ -473,6 +474,7 @@ db.Resultados.insertMany(
         },
         {
             Fase:"All in ALL",
+            Fecha:"2023-10-10T15:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Los Leones",
@@ -512,6 +514,7 @@ db.Resultados.insertMany(
         },
         {
             Fase:"All in ALL",
+            Fecha:"2023-10-11T20:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Los Pumas",
@@ -546,6 +549,7 @@ db.Resultados.insertMany(
         },
         {
             Fase:"All in ALL",
+            Fecha:"2023-10-11T15:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Las Ardillas",
@@ -584,6 +588,7 @@ db.Resultados.insertMany(
         },
         {
             Fase:"SemiFinal",
+            Fecha:"2023-10-12T15:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Los Perro",
@@ -618,6 +623,7 @@ db.Resultados.insertMany(
         },
         {
             Fase:"SemiFinal",
+            Fecha:"2023-10-12T20:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Los Marranos",
@@ -652,6 +658,7 @@ db.Resultados.insertMany(
         },
         {
             Fase:"Final",
+            Fecha:"2023-10-13T20:00:00Z",
             DuracionPartido:"60 min",
             Enfrentamientos:{
                 EquipoA:"Los Perros",
