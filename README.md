@@ -18,6 +18,10 @@ El torneo implementado es un torneo de futbol 5 corto, el cual cuenta solo con 3
 •	Si en el partido los equipos quedan empatados, la definición del ganador será por definición de penaltis, de los cuales el equipo ganador será el que más aciertos tenga.
 
 Equipo1---|							                      |---Equipo5
+
 Equipo2---|	Ganador1vs2--|		|--Ganador5vs6  |---Equipo6
+
 Equipo3---|			          Final			          |---Equipo7
+
 Equipo4---|	Ganador3vs4--|		|--Ganador7vs8  |---Equipo8
+
