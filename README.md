@@ -11,8 +11,3 @@ El torneo implementado es un torneo de futbol 5 corto, el cual cuenta solo con 3
 •	La acumulación de 3 tarjetas amarillas en dos partidos consecutivos para el mismo jugador dará como resultado una tarjeta roja
 •	Al comenzar el tiempo de inicio del partido si un equipo pasado 10 min no se presenta, este automáticamente quedará como perdedor y se dará la victoria al equipo asistente al evento
 •	Si en el partido los equipos quedan empatados, la definición del ganador será por definición de penaltis, de los cuales el equipo ganador será el que más aciertos tenga
-
-Equipo1---|							                      |---Equipo5
-Equipo2---|	Ganador1vs2--|		|--Ganador5vs6  |---Equipo6
-Equipo3---|			          Final			          |---Equipo7
-Equipo4---|	Ganador3vs4--|		|--Ganador7vs8  |---Equipo8
