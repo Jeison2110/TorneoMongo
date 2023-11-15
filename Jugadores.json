@@ -1,0 +1,66 @@
+[
+  {
+    "NombreEquipo": "Las Hormigas",
+    "JugadorA": "{\"Nombre\":\"Jorge Garay\",\"Edad\":18,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Nicolas Mora\",\"Edad\":20,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Jorge Cifuentes\",\"Edad\":21,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Guillermo Castillo\",\"Edad\":22,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Ivan Puerta\",\"Edad\":19,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Los Pumas",
+    "JugadorA": "{\"Nombre\":\"Alejandro Gonzalez\",\"Edad\":18,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Ivan Bobadilla\",\"Edad\":20,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Camilo Valbuena\",\"Edad\":21,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Pablo Armero\",\"Edad\":20,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Luis Yepes\",\"Edad\":18,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Los Leones",
+    "JugadorA": "{\"Nombre\":\"Juan Pablo Castellanos\",\"Edad\":20,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Wilmer Gomez\",\"Edad\":21,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Diego Pino\",\"Edad\":20,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Gabriel Salamanca\",\"Edad\":19,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Hector Garces\",\"Edad\":22,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Las Ardillas",
+    "JugadorA": "{\"Nombre\":\"Pedro Fernandez\",\"Edad\":20,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Alejandro Sanchez\",\"Edad\":21,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Edwin Rozo\",\"Edad\":18,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Ferley Castro\",\"Edad\":19,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Ederson Marin\",\"Edad\":20,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Los Pajaros",
+    "JugadorA": "{\"Nombre\":\"Steven Vargas\",\"Edad\":18,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Brayan Mazuera\",\"Edad\":20,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Elias Chaparro\",\"Edad\":18,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Carlos Carranza\",\"Edad\":20,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Francisco Morales\",\"Edad\":21,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Los Perros",
+    "JugadorA": "{\"Nombre\":\"Juan Carlos Paez\",\"Edad\":20,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Jorge Bravo\",\"Edad\":19,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Mauricio Arciniegas\",\"Edad\":21,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Sebastian Lopez\",\"Edad\":20,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Andres Perez\",\"Edad\":20,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Los Gatos",
+    "JugadorA": "{\"Nombre\":\"Mario Casas\",\"Edad\":18,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Ricardo Sanchez\",\"Edad\":20,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Oscar Gamboa\",\"Edad\":18,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Ivan Hidalgo\",\"Edad\":19,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Kevin Rodriguez\",\"Edad\":20,\"Numero\":5}"
+  },
+  {
+    "NombreEquipo": "Los Marranos",
+    "JugadorA": "{\"Nombre\":\"Dario Ballesteros\",\"Edad\":20,\"Numero\":1}",
+    "JugadorB": "{\"Nombre\":\"Antonio Villamizar\",\"Edad\":21,\"Numero\":2}",
+    "JugadorC": "{\"Nombre\":\"Alexander Martinez\",\"Edad\":20,\"Numero\":3}",
+    "JugadorD": "{\"Nombre\":\"Andres Suarez\",\"Edad\":18,\"Numero\":4}",
+    "JugadorE": "{\"Nombre\":\"Jose Molina\",\"Edad\":19,\"Numero\":5}"
+  }
+]

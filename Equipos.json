@@ -1,0 +1,42 @@
+[
+  {
+    "NombreEquipo": "Los Leones",
+    "Origen": "Medellin",
+    "Uniforme": "Amarillo"
+  },
+  {
+    "NombreEquipo": "Los Perros",
+    "Origen": "Pereira",
+    "Uniforme": "Naranja"
+  },
+  {
+    "NombreEquipo": "Los Pajaros",
+    "Origen": "Cali",
+    "Uniforme": "Azul"
+  },
+  {
+    "NombreEquipo": "Las Ardillas",
+    "Origen": "Pasto",
+    "Uniforme": "Gris"
+  },
+  {
+    "NombreEquipo": "Las Hormigas",
+    "Origen": "Bucaramanga",
+    "Uniforme": "Rojo"
+  },
+  {
+    "NombreEquipo": "Los Gatos",
+    "Origen": "Manizales",
+    "Uniforme": "Negro"
+  },
+  {
+    "NombreEquipo": "Los Pumas",
+    "Origen": "Bogota",
+    "Uniforme": "Cafe"
+  },
+  {
+    "NombreEquipo": "Los Marranos",
+    "Origen": "Neiva",
+    "Uniforme": "Morado"
+  }
+]

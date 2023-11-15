@@ -1,0 +1,42 @@
+[
+  {
+    "Nombre": "Mariana Zuares",
+    "Edad": 36,
+    "Experiencia": "7 Años"
+  },
+  {
+    "Nombre": "Jose Ardila",
+    "Edad": 45,
+    "Experiencia": "8 Años"
+  },
+  {
+    "Nombre": "Henrri Espinoza",
+    "Edad": 52,
+    "Experiencia": "9 años"
+  },
+  {
+    "Nombre": "Alfonso Rengifo",
+    "Edad": 35,
+    "Experiencia": "5 Años"
+  },
+  {
+    "Nombre": "Guillermo Rodriguez",
+    "Edad": 38,
+    "Experiencia": "10 Años"
+  },
+  {
+    "Nombre": "Tobias Salamanca",
+    "Edad": 40,
+    "Experiencia": "10 Años"
+  },
+  {
+    "Nombre": "Rafael Peñuela",
+    "Edad": 50,
+    "Experiencia": "8 Años"
+  },
+  {
+    "Nombre": "Jaime Pava",
+    "Edad": 42,
+    "Experiencia": "9 Años"
+  }
+]
