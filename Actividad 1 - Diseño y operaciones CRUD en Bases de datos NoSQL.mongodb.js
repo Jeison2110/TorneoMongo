@@ -310,42 +310,42 @@ use ('Torneo')
 db.Entrenadores.insertMany(
     [
         {
-            NombreEqauipo: "Los Perros",
+            NombreEquipo: "Los Perros",
             EntrenadorFisico:{Nombre:"Orlando Lombana", Edad:55, Experiencia:"3 Años"},
             EntrenadorMedico:{Nombre:"Camilo Cifuentes", Edad:30, Experiencia:"5 Años"}
         },
         {
-            NombreEqauipo: "Los Gatos",
+            NombreEquipo: "Los Gatos",
             EntrenadorFisico:{Nombre:"Ivan Marin", Edad:35, Experiencia:"1 Año"},
             EntrenadorMedico:{Nombre:"Holman Pinto", Edad:36, Experiencia:"2 Años"}
         },
         {
-            NombreEqauipo: "Los Leones",
+            NombreEquipo: "Los Leones",
             EntrenadorFisico:{Nombre:"Hugo Arias", Edad:45, Experiencia:"10 Años"},
             EntrenadorMedico:{Nombre:"Daniel Becerra", Edad:36, Experiencia:"3 Años"}
         },
         {
-            NombreEqauipo: "Los Pajaros",
+            NombreEquipo: "Los Pajaros",
             EntrenadorFisico:{Nombre:"Lucas Merino", Edad:45, Experiencia:"2 Años"},
             EntrenadorMedico:{Nombre:"Manuel Castillo", Edad:35, Experiencia:"1 Año"}
         },
         {
-            NombreEqauipo: "Los Pumas",
+            NombreEquipo: "Los Pumas",
             EntrenadorFisico:{Nombre:"Jose Luis Diaz", Edad:50, Experiencia:"8 Años"},
             EntrenadorMedico:{Nombre:"Santiago Arias", Edad:35, Experiencia:"5 Años"}
         },
         {
-            NombreEqauipo: "Los Marranos",
+            NombreEquipo: "Los Marranos",
             EntrenadorFisico:{Nombre:"Samuel Martinez", Edad:38, Experiencia:"1 Año"},
             EntrenadorMedico:{Nombre:"Mateo Hernandez", Edad:45, Experiencia:"3 Años"}
         },
         {
-            NombreEqauipo: "Las Ardillas",
+            NombreEquipo: "Las Ardillas",
             EntrenadorFisico:{Nombre:"Andres Losano", Edad:30, Experiencia:"4 Años"},
             EntrenadorMedico:{Nombre:"Nicolas Prieto", Edad:42, Experiencia:"2 Años"}
         },
         {
-            NombreEqauipo: "Las Hormigas",
+            NombreEquipo: "Las Hormigas",
             EntrenadorFisico:{Nombre:"Pablo Valencia", Edad:45, Experiencia:"6 Años"},
             EntrenadorMedico:{Nombre:"Braulio Medina", Edad:36, Experiencia:"3 Años"}
         }
